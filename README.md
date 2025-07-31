@@ -10,10 +10,12 @@
 
 
 📚 Siempre abierto a nuevas ideas y colaboraciones.
+oe la mala paratodos gran hijueputas UwU
+
 <!--
 **Deivi6/Deivi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-oe la mala paratodos gran hijueputas UwU
+
