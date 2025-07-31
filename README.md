@@ -1,6 +1,6 @@
 ## Hola soy Deivi 👋
 
-👋 ¡Hola! Soy Deivi, estudiante de Ingeniería de Software.
+👋 ¡Hola! Soy Deivi Garc{ia Granda, estudiante de Ingeniería de Software.
 
 
 💻 Apasionado por la programación, el desarrollo web y la tecnología en general.
